@@ -1,9 +1,5 @@
-
 <html>
-	<head>
-		<title>Digital House</title>
-	</head>
+	<head></head>
 	<body></body>
 
 </html>
-
