@@ -11,5 +11,5 @@ Microsoft aprovechó los problemas ecónomicos que pasaba GitHub y se adelantó 
 Microsoft ha adoptado una estrategia nueva, mucho más abierta al mundo del software libre y a la integración con otras plataformas y servicios.
 
 
-c. ¿Hay otra forma que no sea la terminal para trabajar con Github?
- Si, las hay. Una forma puede ser tener la aplicación de GitHub en la computadora y  realizar todos los movimientos, sincronizaciones y cambios, desde la interfaz del usuario, sin necesidad de escribir códigos en la Terminal.
+c. ¿Hay otra forma que no sea la terminal para trabajar con Github? 
+ Si,  las hay. Una forma puede ser tener la aplicación de GitHub en la computadora y  realizar todos los movimientos, sincronizaciones y cambios, desde la interfaz del usuario, sin necesidad de escribir códigos en la Terminal.
