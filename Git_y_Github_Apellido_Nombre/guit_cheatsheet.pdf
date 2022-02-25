@@ -1,0 +1,27 @@
+git init
+     crea un subdirectorio nuevo llamado .git, el cual contiene todos los archivos necesarios del repositorio – un esqueleto de un repositorio de Git.
+     Todavía no hay nada en tu proyecto que esté bajo seguimiento.
+
+git fetch
+    Descarga los cambios realizados en el repositorio remoto.
+
+git pull
+    Unifica los comandos fetch y merge en un único comando.
+
+git commit -m "<mensaje>"
+    Confirma los cambios realizados. El “mensaje” generalmente se usa para asociar al commit una breve descripción de los cambios realizados.
+
+git push origin <nombre_rama>
+    Sube la rama “nombre_rama” al servidor remoto o si ya se encuentra de forma remota la actualiza con los commit realizados.
+
+git status
+    Muestra el estado actual de la rama, como los cambios que hay sin commitear.
+
+git add <nombre_archivo>:
+    Comienza a trackear el archivo “nombre_archivo”.
+
+git checkout 
+    Permite desplazarte entre las ramas creadas.
+
+git branch <nombre_rama>
+    Crea una rama nueva de forma local.
