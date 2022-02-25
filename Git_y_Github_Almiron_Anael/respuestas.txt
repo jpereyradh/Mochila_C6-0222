@@ -1,3 +1,0 @@
-a. Git es un software de control de versiones diseñado por Linus Torvalds, pensando en la eficiencia, la confiabilidad y compatibilidad del mantenimiento de versiones de aplicaciones cuando estas tienen un gran número de archivos de código fuente.
-b. GitHub actualmente pertenece a Microsoft, quien la adquirió en 2018 y lo hizo para formar parte del mundo de los desarrolladores, ya que Github es el mayor repositorio de código del mundo.
-c. Si hay otra forma, a través de una aplicación de escritorio de GitHub que se puese descargar y utilizar sin usar código.
