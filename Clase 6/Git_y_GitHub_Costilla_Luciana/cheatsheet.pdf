@@ -1,0 +1,14 @@
+git init: crea el repositorio local
+git config user.name: agrega nuestra identificación
+git config user.mail: agrega nuestro mail
+git remote add origin + link del repositorio: agrega el repositorio remoto.
+git add . : agrega todos los archivos
+git commit -m "": comitea los cambios hechos.
+git push origin main: envia los cambios a repositorio remoto. 
+git status: realiza un seguimiento.
+git pull: descarga los cambios que hay en el repositorio remoto. 
+git log: muestra el historial 
+git branch + nombre nueva rama: crea nueva rama.
+git checkout + nombre de nueva rama: nos movemos a la otra rama.
+git clone + link del repositorio: clonamos el repositorio remoto.
+
