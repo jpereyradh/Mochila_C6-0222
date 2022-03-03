@@ -1,14 +1,12 @@
-git init: crea el repositorio local
-git config user.name: agrega nuestra identificación
-git config user.mail: agrega nuestro mail
-git remote add origin + link del repositorio: agrega el repositorio remoto.
-git add . : agrega todos los archivos
-git commit -m "": comitea los cambios hechos.
-git push origin main: envia los cambios a repositorio remoto. 
-git status: realiza un seguimiento.
-git pull: descarga los cambios que hay en el repositorio remoto. 
-git log: muestra el historial 
-git branch + nombre nueva rama: crea nueva rama.
-git checkout + nombre de nueva rama: nos movemos a la otra rama.
-git clone + link del repositorio: clonamos el repositorio remoto.
-
+git init: crea el repositorio
+git config user.name + nombre de usuario de github: agrega nuestro id
+git config user.email + email: agrega nuestro mail
+git remote add origin + link del repositorio remoto: vinculamos el local con el remoto
+git add . : agrega todos los archivos del local al remoto
+git commit -m "...": comitea los cambios
+git push origin main: envía los cambios a la rama principal del repositorio remoto
+git clone + link del repositorio: clonamos el repositorio remoto al local
+git log: muestra el historial de los cambios hechos en el repositorio remoto
+git branch + nombre de nueva rama: crea nueva rama
+git checkout + nombre de nueva rama: se transforma en main
+git checkout -b + nombre de nueva rama: la HEAD apunta a ella.
