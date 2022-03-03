@@ -1,6 +1,13 @@
 <html>
+<<<<<<< HEAD
 	<head></head>
 	<body>
+=======
+	<head><title>Home</title></head>
+	<body>
+		<h3>Bienvenidos a la Mochila</h3>
+	
+>>>>>>> df446ac1f12c5a3b7a04f81ae7e6da4c6f67d5e6
 	</body>
 
 </html>
