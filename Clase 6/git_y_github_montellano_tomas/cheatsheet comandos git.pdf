@@ -1,0 +1,29 @@
+crear archivos  - $touch "nombre del archivo"
+crear carpetas  - $mkdir "nombre de la carpeta"
+
+moverse a otra carpeta  - $cd "direccion de la carpeta"
+retroceder a la carpeta anterior  - $cd ..
+
+borrar carpeta  - $rmdir "nombre de la carpeta" (si esta vacia)
+borrar carpeta  - $rm -r "nombre de la carpeta"
+borrar archivo  - $rm "nombre del archivo"
+
+Lista de archivos  - $ls
+Lista de archivos incluyendo ocultos  - $ls -la
+
+mover archivos  - $mv [ruta/archivo1] [ruta/archivo2]
+mover carpetas  - $mv [ruta/carpeta1] [ruta/carpeta2]
+
+crear repositorio local  - $git init
+revisar el estado de los archivos de la carpeta en la que estas posicionado  - $git status 
+registrarse en el repositorio  - $git config user.name "nombre de git"     $git config user.email "email de git"
+clonar repositorio existente  - $git clone ssh://usuario@domain.com/repo.git
+bajar archivos de un repositorio ya clonado  - $git pull origin "nombre de la rama que se quiere actualizar"
+añadir archivos nuevos o modificados  - $git add "nombre del archivo" o $git add .
+hacerle commit a los archivos añadidos  - $git commit -m "mensaje de los cambios realizados"
+subir los cambios al directorio  - $git push origin "nombre de la rama" 
+
+crear rama nueva  - $git branch "nombre de la rama nueva"
+moverse a otra rama  - $git checkout "nombre de la rama"
+borrar rama  - $git branch -D 
+
