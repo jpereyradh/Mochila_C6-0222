@@ -1,0 +1,2 @@
+¿Que es una computadora?
+ Es un dispositivo electronico capaz de recibir instrucciones y ejecutarlas. Estas instrucciones son dadas por un usuario por medio de una interfaz grafica que presenta el sistema.

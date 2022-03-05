@@ -1,0 +1,1 @@
+El software es un conjunto de programas que de manera visual el usuario interactua con el. En cambio, el hardware, la parte "dura" es aquella donde el soft vive.

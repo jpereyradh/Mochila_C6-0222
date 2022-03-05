@@ -1,0 +1,1 @@
+Git Bash es una terminal capaz de asociarse con una ppagina web llamadagit. Y Visual Studio Code es un editor de codigo/texto capaz de programar mediante lenguajes aplicaciones web y aplicaciones.

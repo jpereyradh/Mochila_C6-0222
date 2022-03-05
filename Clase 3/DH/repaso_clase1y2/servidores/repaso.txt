@@ -1,0 +1,1 @@
+Es el equipo que brinda los servicios y recursos a los que acceden los clientes. En otras palabras, es quien responde los pedidos del cliente.
