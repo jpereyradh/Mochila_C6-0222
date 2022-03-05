@@ -1,0 +1,20 @@
+Principales Comandos GIT
+
+$ pwd
+print working directory. imprime la posicion del directorio, es decir carpeta donde estoy parado
+
+$ git init
+inicializa un repositorio local en la carpeta donde estoy parado
+
+$ git status
+me muestra el estado de la carpeta y sus archivos
+
+$ git add .
+adhiero todos los archivos y carpetas al staging area, sacandolos así de la working area
+
+$ commit -m
+hago un commit, un paquete con archivos, y le pongo un nombre al mismo
+
+$ git push origin main
+subo el commit hecho en el pasa anterior al repo remoto linkeado al local
+

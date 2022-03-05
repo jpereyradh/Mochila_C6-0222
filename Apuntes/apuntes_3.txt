@@ -1,0 +1,21 @@
+Características de memorias
+- Velocidad_ lo que tarde en llevar el pedido al procesador. Se mide en megahertz
+- Capacidad_ lo guardado disponible para que el procesador acceda. Se mide en gbytes
+- Latencia_ ciclo de reloj en la que tarda la info en llegar al procesador. menos latencia, mas rapida. nanosegundos
+- Voltaje_ +voltaje, mas calor, mas trabaja
+
+
+Dual Chanel,
+
+dos memorias identicas, mismo fabricante mejor
+duplica valores
+
+ocupa buses slots. 
+
+
+BIOS (BASIC INPUT OUTPUT SYSTEM)
+
+en la ROM. cambiar algunas configuraciones pero no poner algo
+solo en las Reprogramables, depende del fabricante, para actualizarle algunas opciones de seguridad
+
+LOS discos ssd estan migrando a los buses pci (disco m2) xq produce cuello
