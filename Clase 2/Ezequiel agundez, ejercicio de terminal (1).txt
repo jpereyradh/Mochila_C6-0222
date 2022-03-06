@@ -1,0 +1,247 @@
+
+USER@DESKTOP-6LSLA5D MINGW64 ~/Desktop
+$ mkdir DH
+
+USER@DESKTOP-6LSLA5D MINGW64 ~/Desktop
+$ cd DH
+
+USER@DESKTOP-6LSLA5D MINGW64 ~/Desktop/DH
+$ mkdir repaso_clase1y2
+
+USER@DESKTOP-6LSLA5D MINGW64 ~/Desktop/DH
+$ cd re*
+
+USER@DESKTOP-6LSLA5D MINGW64 ~/Desktop/DH/repaso_clase1y2
+$ mkdir "historia_de_la_contabilidad" "que_haremos_hoy" "servidores" "interfaces_de_usuario" "infraestructura"
+
+USER@DESKTOP-6LSLA5D MINGW64 ~/Desktop/DH/repaso_clase1y2
+$ ls
+historia_de_la_contabilidad/  interfaces_de_usuario/  servidores/
+infraestructura/              que_haremos_hoy/
+
+USER@DESKTOP-6LSLA5D MINGW64 ~/Desktop/DH/repaso_clase1y2
+$ cd servidores
+
+USER@DESKTOP-6LSLA5D MINGW64 ~/Desktop/DH/repaso_clase1y2/servidores
+$ touch repaso
+
+USER@DESKTOP-6LSLA5D MINGW64 ~/Desktop/DH/repaso_clase1y2/servidores
+$ cd ../
+
+USER@DESKTOP-6LSLA5D MINGW64 ~/Desktop/DH/repaso_clase1y2
+$ cd que_haremos_hoy
+
+USER@DESKTOP-6LSLA5D MINGW64 ~/Desktop/DH/repaso_clase1y2/que_haremos_hoy
+$ touch repaso.txt
+
+USER@DESKTOP-6LSLA5D MINGW64 ~/Desktop/DH/repaso_clase1y2/que_haremos_hoy
+$ cd ../
+
+USER@DESKTOP-6LSLA5D MINGW64 ~/Desktop/DH/repaso_clase1y2
+$ cd historia_de_la_contabilidad
+
+USER@DESKTOP-6LSLA5D MINGW64 ~/Desktop/DH/repaso_clase1y2/historia_de_la_contabilidad
+$ touch repaso.doc
+
+USER@DESKTOP-6LSLA5D MINGW64 ~/Desktop/DH/repaso_clase1y2/historia_de_la_contabilidad
+$ cd ../
+
+USER@DESKTOP-6LSLA5D MINGW64 ~/Desktop/DH/repaso_clase1y2
+$ cd infraestructura
+
+USER@DESKTOP-6LSLA5D MINGW64 ~/Desktop/DH/repaso_clase1y2/infraestructura
+$ touch repaso.txt
+
+USER@DESKTOP-6LSLA5D MINGW64 ~/Desktop/DH/repaso_clase1y2/infraestructura
+$ cd ../
+
+USER@DESKTOP-6LSLA5D MINGW64 ~/Desktop/DH/repaso_clase1y2
+$ cd interfaces_de_usuario
+
+USER@DESKTOP-6LSLA5D MINGW64 ~/Desktop/DH/repaso_clase1y2/interfaces_de_usuario
+$ touch repaso.txt
+
+USER@DESKTOP-6LSLA5D MINGW64 ~/Desktop/DH/repaso_clase1y2/interfaces_de_usuario
+$
+
+USER@DESKTOP-6LSLA5D MINGW64 ~
+$ cd DH
+bash: cd: DH: No such file or directory
+
+USER@DESKTOP-6LSLA5D MINGW64 ~
+$ cd c/desktop
+bash: cd: c/desktop: No such file or directory
+
+USER@DESKTOP-6LSLA5D MINGW64 ~
+$ pwd
+/c/Users/USER
+
+USER@DESKTOP-6LSLA5D MINGW64 ~
+$ cd desktop
+
+USER@DESKTOP-6LSLA5D MINGW64 ~/desktop
+$ cd DH
+
+USER@DESKTOP-6LSLA5D MINGW64 ~/desktop/DH
+$ ls -R
+.:
+repaso_clase1y2/
+
+./repaso_clase1y2:
+historia_de_la_contabilidad/  interfaces_de_usuario/  servidores/
+infraestructura/              que_haremos_hoy/
+
+./repaso_clase1y2/historia_de_la_contabilidad:
+repaso.doc
+
+./repaso_clase1y2/infraestructura:
+repaso.txt
+
+./repaso_clase1y2/interfaces_de_usuario:
+repaso.txt
+
+./repaso_clase1y2/que_haremos_hoy:
+repaso.txt
+
+./repaso_clase1y2/servidores:
+repaso
+
+USER@DESKTOP-6LSLA5D MINGW64 ~/desktop/DH
+$
+
+
+
+-----------------------------------------------------------
+VS CODE:
+
+USER@DESKTOP-6LSLA5D MINGW64 ~
+$ cd DH
+bash: cd: DH: No such file or directory
+
+USER@DESKTOP-6LSLA5D MINGW64 ~
+$ pwd
+/c/Users/USER
+
+USER@DESKTOP-6LSLA5D MINGW64 ~
+$ cd desktop
+
+USER@DESKTOP-6LSLA5D MINGW64 ~/desktop
+$ cd DH
+
+USER@DESKTOP-6LSLA5D MINGW64 ~/desktop/DH
+$ cd historia_de_la_contabilidad
+bash: cd: historia_de_la_contabilidad: No such file or directory
+
+USER@DESKTOP-6LSLA5D MINGW64 ~/desktop/DH
+$ cd re*
+
+USER@DESKTOP-6LSLA5D MINGW64 ~/desktop/DH/repaso_clase1y2
+$ cd historia_de_la_contabilidad
+
+USER@DESKTOP-6LSLA5D MINGW64 ~/desktop/DH/repaso_clase1y2/historia_de_la_contabilidad
+$ mv historia_de_la_contabilidad historia_de_la_informatica
+mv: cannot stat 'historia_de_la_contabilidad': No such file or directory
+
+USER@DESKTOP-6LSLA5D MINGW64 ~/desktop/DH/repaso_clase1y2/historia_de_la_contabilidad
+$ mv [historia_de_la_contabilidad/historia_de_la_informatica]
+mv: missing destination file operand after '[historia_de_la_contabilidad/historia_de_la_informatica]'
+Try 'mv --help' for more information.
+
+USER@DESKTOP-6LSLA5D MINGW64 ~/desktop/DH/repaso_clase1y2/historia_de_la_contabilidad
+$ ls
+repaso.doc
+
+USER@DESKTOP-6LSLA5D MINGW64 ~/desktop/DH/repaso_clase1y2/historia_de_la_contabilidad
+$ cd ../
+
+USER@DESKTOP-6LSLA5D MINGW64 ~/desktop/DH/repaso_clase1y2
+$ cd historia_de_la_informatica
+bash: cd: historia_de_la_informatica: No such file or directory
+
+USER@DESKTOP-6LSLA5D MINGW64 ~/desktop/DH/repaso_clase1y2
+$ mv [historia_de_la_contabilidad/historia_de_la_informatica]
+mv: missing destination file operand after '[historia_de_la_contabilidad/historia_de_la_informatica]'
+Try 'mv --help' for more information.
+
+USER@DESKTOP-6LSLA5D MINGW64 ~/desktop/DH/repaso_clase1y2
+$ ls
+historia_de_la_contabilidad  infraestructura  interfaces_de_usuario  que_haremos_hoy  servidores
+
+USER@DESKTOP-6LSLA5D MINGW64 ~/desktop/DH/repaso_clase1y2
+$ mv historia_de_la_contabilidad historia_de_la_informatica
+
+USER@DESKTOP-6LSLA5D MINGW64 ~/desktop/DH/repaso_clase1y2
+$ mv que_haremos_hoy software_y_hardware
+
+USER@DESKTOP-6LSLA5D MINGW64 ~/desktop/DH/repaso_clase1y2
+$ mv infraestructura git_bash_y_vscode
+
+USER@DESKTOP-6LSLA5D MINGW64 ~/desktop/DH/repaso_clase1y2
+$ cd historia_de_la_informatica
+
+USER@DESKTOP-6LSLA5D MINGW64 ~/desktop/DH/repaso_clase1y2/historia_de_la_informatica
+$ ls
+repaso.doc
+
+USER@DESKTOP-6LSLA5D MINGW64 ~/desktop/DH/repaso_clase1y2/historia_de_la_informatica
+$ cat repaso.doc
+
+USER@DESKTOP-6LSLA5D MINGW64 ~/desktop/DH/repaso_clase1y2/historia_de_la_informatica
+$ repaso.doc
+bash: repaso.doc: command not found
+
+USER@DESKTOP-6LSLA5D MINGW64 ~/desktop/DH/repaso_clase1y2/historia_de_la_informatica
+$ more repaso.doc
+bash: more: command not found
+
+USER@DESKTOP-6LSLA5D MINGW64 ~/desktop/DH/repaso_clase1y2/historia_de_la_informatica
+$ cat repaso.doc
+
+USER@DESKTOP-6LSLA5D MINGW64 ~/desktop/DH/repaso_clase1y2/historia_de_la_informatica
+$ nano repaso.doc
+
+USER@DESKTOP-6LSLA5D MINGW64 ~/desktop/DH/repaso_clase1y2/historia_de_la_informatica
+$ cat repaso.doc
+La informática,1​ también llamada computación,2​ es el área de la ciencia que se encarga de estudiar la administración de métod
+os, técnicas y procesos con el fin de almacenar, procesar y transmitir información y datos en formato digital.
+
+USER@DESKTOP-6LSLA5D MINGW64 ~/desktop/DH/repaso_clase1y2/historia_de_la_informatica
+$ cd ../
+
+USER@DESKTOP-6LSLA5D MINGW64 ~/desktop/DH/repaso_clase1y2
+$ cd software_y_hardware
+
+USER@DESKTOP-6LSLA5D MINGW64 ~/desktop/DH/repaso_clase1y2/software_y_hardware
+$ ls
+repaso.txt
+
+USER@DESKTOP-6LSLA5D MINGW64 ~/desktop/DH/repaso_clase1y2/software_y_hardware
+$ nano repaso.txt
+
+USER@DESKTOP-6LSLA5D MINGW64 ~/desktop/DH/repaso_clase1y2/software_y_hardware
+$ cat repaso.txt
+El hardware hace referencia a todos los componentes materiales y físicos de un dispositivo, es decir, aquellos que se pueden ver y tocar. El software es la parte digital del ordenador, es decir, el conjunto de instrucciones, programas y reglas informáticas que el equipo requiere para funcionar.
+
+USER@DESKTOP-6LSLA5D MINGW64 ~/desktop/DH/repaso_clase1y2/software_y_hardware
+$ cd ../
+
+USER@DESKTOP-6LSLA5D MINGW64 ~/desktop/DH/repaso_clase1y2
+$ cd git_bash_y_vscode
+
+USER@DESKTOP-6LSLA5D MINGW64 ~/desktop/DH/repaso_clase1y2/git_bash_y_vscode
+$ ls
+repaso.txt
+
+USER@DESKTOP-6LSLA5D MINGW64 ~/desktop/DH/repaso_clase1y2/git_bash_y_vscode
+$ nano repaso.txt
+
+USER@DESKTOP-6LSLA5D MINGW64 ~/desktop/DH/repaso_clase1y2/git_bash_y_vscode
+$ cat nano repaso.txt
+cat: nano: No such file or directory
+En esencia, Git es un conjunto de programas de utilidades de líneas de comandos que están diseñados para ejecutarse en un entorno de líneas de comandos de estilo Unix
+Visual Studio Code es un editor de código fuente desarrollado por Microsoft para Windows, Linux, macOS y Web. Incluye soporte para la depuración, control integrado de Git, resaltado de sintaxis, finalización inteligente de código, fragmentos y refactorización de código. También es personalizable, por lo que los usuarios pueden cambiar el tema del editor, los atajos de teclado y 
+las preferencias. Es gratuito y de código abierto,1​2​ aunque la descarga oficial está bajo software privativo e incluye caract
+erísticas personalizadas por Microsoft.3​
+
+USER@DESKTOP-6LSLA5D MINGW64 ~/desktop/DH/repaso_clase1y2/git_bash_y_vscode
+$
