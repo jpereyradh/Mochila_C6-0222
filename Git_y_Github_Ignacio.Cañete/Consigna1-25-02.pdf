@@ -1,8 +1,0 @@
-git init : para inicializar un repositorio local
-git add . : para añadir los archivos nuevos o modificados a github
-git commit -m : para commitear nuestros cambios o agregados que ya fueron añadidos con add .
-git branch :  para crear una nueva rama en el repositorio remoto
-git remote : para conectar nuestro repositorio local con el remoto de github
-git status : para ver el estado de nuestros archivos en su repositorio
-git config user.name : para configurar nuestro nombre de usuario
-git config user.email : para configurar nuestro mail
