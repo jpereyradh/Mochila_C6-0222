@@ -1,3 +1,0 @@
-Cyberpunk 2077: AMD Ryzen 3600. Es el unico procesador de los 3 que es capaz de correr el juego a un framerate aceptable.
-Office 2019: AMD A8 9600. El A8 es un procesador entry-level que está pensado para tareas de oficina.
-Wondershare Filmora X: Intel i3 3230. Es un procesador un poco lento para editar video, pero permite completar la tarea.

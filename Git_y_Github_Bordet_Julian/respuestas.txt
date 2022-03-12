@@ -1,3 +1,0 @@
-a. El creador de Git es Linus Torvalds, creador del kernel de Linux. Lo hizo proque ninguna otra solución se adaptaba a las necesidades del desarrollo de Linux.
-b. GitHub actualmente pertenece a Microsoft, quien la adquirió en 2018.
-c. Se pueden realizar ciertas tareas desde el cliente web pero la funcionalidad es muy limitada.
