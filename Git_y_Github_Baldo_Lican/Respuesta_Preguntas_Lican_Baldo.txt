@@ -1,3 +1,0 @@
-1 - Git es un sistema de control de versiones distribuido que fue creado por Linus Torvalds en 2005 para ser utilizado en el desarrollo del kernel de Linux. Git es un proyecto de código abierto maduro y con un mantenimiento activo.
-2 - A partir del 4 de junio de 2018 Microsoft es el dueño de GitHub al comprarlo por 7500 millones de dolares.
-3 - Si hay otra forma, a travez de una aplicacion de escritorio de GitHub que se puese descargar y utilizar sin usar codigo.
