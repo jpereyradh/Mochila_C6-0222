@@ -1,1 +1,0 @@
-Los servidores son aquellos que pueden almacenar informacion tanto remota como localmente
