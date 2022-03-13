@@ -1,0 +1,59 @@
+Comandos Git
+
+Establecer el usuario y el e-mail
+git config --global user.name "nombre de usuario"
+git config --global user.email email@email.com
+
+Eliminar todos los registros que se refieren al usuario y al e-mail
+git config --global --unset user.name "nombre de usuario"
+git config --global --unset user.email email@email.com
+
+Crear un nuevo repositorio
+git init
+
+Verificar el estado de los archivos/directorios
+git status
+
+Añadir un archivo
+git add nombre_archivo_directorio (archivo específico)
+git add . / git add --all (todos los archivos)
+
+Commitear un archivo/directorio
+git commit nombre_archivo -m "mensaje del commit"
+
+Remover un archivo o directorio
+git rm archivo
+git rm -r directorio (remueve el directorio y los archivos que contiene)
+
+Ver el historial de actividad
+git log (muestra el historial)
+
+Ver los repositorios remotos (para saber a dónde se envían los cambios o
+de dónde los descargamos)
+❏ git remote
+❏ git remote -v
+
+Actualizar el repositorio local según el repositorio remoto
+git pull (actualizar los archivos contra la branch actual)
+
+Clonar un repositorio remoto existente
+git clone git@github.com:minombre/archivo-git.git
+
+crtl+l o clear
+Limpiar la consola
+
+mkdir nombre_de_carpeta
+Crear una carpeta
+cd
+
+Entrar en la carpeta
+cd ..
+
+Salir de la carpeta
+ls
+
+Ver lo que hay dentro de la carpeta
+rm nombre
+
+Borrar archivo
+rm -r nombre
