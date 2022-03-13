@@ -1,0 +1,28 @@
+¿Se pueden crear las carpetas del punto 2 en un solo comando? En caso que la
+respuesta sea positiva escribir el comando
+
+usuario@DESKTOP-MFBTH9L MINGW64 ~/Desktop/dh/peliculas
+$ mkdir Infantiles Accion Terror Comendia Romanticas
+
+
+¿Se pueden crear los archivos del punto 3 en un solo comando? En caso que la
+respuesta sea positiva escribir el comando
+
+usuario@DESKTOP-MFBTH9L MINGW64 ~/Desktop/dh/peliculas
+$ touch infantiles/Intensamente.txt infantiles/"El juego del miedo.xls" infantiles/"Rapido y furioso.pdf" infantiles/Titanic.jpg
+
+
+Estando ubicados en la carpeta DH crear una carpeta llamada Prueba dentro de
+la carpeta Romanticas en un solo comando y escribirlo aquí.
+
+usuario@DESKTOP-MFBTH9L MINGW64 ~/Desktop/dh
+$ mkdir peliculas/romanticas/prueba
+
+
+Estando ubicados en la carpeta Romanticas crear una carpeta llamada Prueba2
+dentro de la carpeta Accion
+
+usuario@DESKTOP-MFBTH9L MINGW64 ~/Desktop/dh/peliculas/romanticas
+$ mkdir ../accion/Prueba2
+
+
