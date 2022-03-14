@@ -1,0 +1,149 @@
+totyadmin@Gaston MINGW64 ~
+$ mv /DH/repaso_clase1y2/historia_de_la_contabilidad historia_de_la_informatica
+mv: cannot stat '/DH/repaso_clase1y2/historia_de_la_contabilidad': No such file or directory
+
+totyadmin@Gaston MINGW64 ~
+$ cd DH
+
+totyadmin@Gaston MINGW64 ~/DH
+$ CD RE*
+bash: CD: command not found
+
+totyadmin@Gaston MINGW64 ~/DH
+$ cd re*
+
+totyadmin@Gaston MINGW64 ~/DH/repaso_clase1y2
+$ mv historia_de_la_contabilidad historia_de_la_informatica
+
+totyadmin@Gaston MINGW64 ~/DH/repaso_clase1y2
+$ ls
+historia_de_la_informatica/  infraestructura/  interfaces_de_usuario/  que_haremos_hoy/  servidores/
+
+totyadmin@Gaston MINGW64 ~/DH/repaso_clase1y2
+$ mv que_haremos_hoy software_y_hardware
+
+totyadmin@Gaston MINGW64 ~/DH/repaso_clase1y2
+$ ls
+historia_de_la_informatica/  infraestructura/  interfaces_de_usuario/  servidores/  software_y_hardware/
+
+totyadmin@Gaston MINGW64 ~/DH/repaso_clase1y2
+$ mv infraestructura git_bush_y_code
+
+totyadmin@Gaston MINGW64 ~/DH/repaso_clase1y2
+$ ls
+git_bush_y_code/  historia_de_la_informatica/  interfaces_de_usuario/  servidores/  software_y_hardware/
+
+totyadmin@Gaston MINGW64 ~/DH/repaso_clase1y2
+$ cd git*
+
+totyadmin@Gaston MINGW64 ~/DH/repaso_clase1y2/git_bush_y_code
+$ ls
+repaso
+
+totyadmin@Gaston MINGW64 ~/DH/repaso_clase1y2/git_bush_y_code
+$ nano repaso
+
+totyadmin@Gaston MINGW64 ~/DH/repaso_clase1y2/git_bush_y_code
+$ nano repaso
+
+totyadmin@Gaston MINGW64 ~/DH/repaso_clase1y2/git_bush_y_code
+$ nano repaso
+
+totyadmin@Gaston MINGW64 ~/DH/repaso_clase1y2/git_bush_y_code
+$ nano repaso
+
+totyadmin@Gaston MINGW64 ~/DH/repaso_clase1y2/git_bush_y_code
+$ cat nano
+cat: nano: No such file or directory
+
+totyadmin@Gaston MINGW64 ~/DH/repaso_clase1y2/git_bush_y_code
+$ cat repaso
+Git Bash is an application that provides Git command line experience on the Operating System. It is a command-line shell for enabling git with the command line in the system.
+
+totyadmin@Gaston MINGW64 ~/DH/repaso_clase1y2/git_bush_y_code
+$ cd.. 
+bash: cd..: command not found
+
+totyadmin@Gaston MINGW64 ~/DH/repaso_clase1y2/git_bush_y_code
+$ cd ..
+
+totyadmin@Gaston MINGW64 ~/DH/repaso_clase1y2
+$ cd histor*
+
+totyadmin@Gaston MINGW64 ~/DH/repaso_clase1y2/historia_de_la_informatica
+$ ls
+repaso.txt
+
+totyadmin@Gaston MINGW64 ~/DH/repaso_clase1y2/historia_de_la_informatica
+$ nano repaso.txt
+
+totyadmin@Gaston MINGW64 ~/DH/repaso_clase1y2/historia_de_la_informatica
+$ cat repaso.txt
+El origen de la informática se sitúa en la segunda mitad del siglo XX, aunque la primera generación de computadoras se desarrolló entre 1951 
+y 1958, las cuales funcionaban con válvulas, cilindros magnéticos e instrucciones internas
+
+totyadmin@Gaston MINGW64 ~/DH/repaso_clase1y2/historia_de_la_informatica
+$ cd ..
+
+totyadmin@Gaston MINGW64 ~/DH/repaso_clase1y2
+$ cd inter*
+
+totyadmin@Gaston MINGW64 ~/DH/repaso_clase1y2/interfaces_de_usuario
+$ ls
+repaso.doc
+
+totyadmin@Gaston MINGW64 ~/DH/repaso_clase1y2/interfaces_de_usuario
+$ nano repaso.doc
+
+totyadmin@Gaston MINGW64 ~/DH/repaso_clase1y2/interfaces_de_usuario
+$ nano repaso.doc
+
+totyadmin@Gaston MINGW64 ~/DH/repaso_clase1y2/interfaces_de_usuario
+$ cat repaso.doc
+La interfaz de usuario o UI (User Interface) es un concepto que abarca arquitectura de información, patrones y diferentes elementos visuales 
+que nos permiten interactuar de forma eficaz con sistemas operativos y softwares de diversos dispositivos.
+
+totyadmin@Gaston MINGW64 ~/DH/repaso_clase1y2/interfaces_de_usuario
+$ cd ..
+
+totyadmin@Gaston MINGW64 ~/DH/repaso_clase1y2
+$ cdservi*
+bash: cdservi*: command not found
+
+totyadmin@Gaston MINGW64 ~/DH/repaso_clase1y2
+$ cd serv*
+
+totyadmin@Gaston MINGW64 ~/DH/repaso_clase1y2/servidores
+$ ls
+repaso.doc
+
+totyadmin@Gaston MINGW64 ~/DH/repaso_clase1y2/servidores
+$ nano repaso.doc
+
+totyadmin@Gaston MINGW64 ~/DH/repaso_clase1y2/servidores
+$ cat repaso.doc
+Un servidor es un programa informático que proporciona servicios a otros programas informáticos (y sus usuarios) en el mismo equipo de cómputo o en otros. ... Un servidor Web, por ejemplo, es un programa de computadora que sirve páginas o archivos HTML solicitados.
+
+totyadmin@Gaston MINGW64 ~/DH/repaso_clase1y2/servidores
+$ cd ..
+
+totyadmin@Gaston MINGW64 ~/DH/repaso_clase1y2
+$ cd sof*
+
+totyadmin@Gaston MINGW64 ~/DH/repaso_clase1y2/software_y_hardware
+$ ls
+repaso.txt
+
+totyadmin@Gaston MINGW64 ~/DH/repaso_clase1y2/software_y_hardware
+$ nano repaso.txt
+
+totyadmin@Gaston MINGW64 ~/DH/repaso_clase1y2/software_y_hardware
+$ cat repaso.txt
+Los componentes de la computadora que tienen existencia física y que se pueden tocar son hardware, mientras que el software son aquellos programas que se ejecutan en el hardware. ... Por otro lado, para entregar su conjunto de instrucciones, el software necesita hardware.
+
+totyadmin@Gaston MINGW64 ~/DH/repaso_clase1y2/software_y_hardware
+$ cd ..
+
+totyadmin@Gaston MINGW64 ~/DH/repaso_clase1y2
+$ ls -r
+software_y_hardware/  servidores/  interfaces_de_usuario/  historia_de_la_informatica/  git_bush_y_code/
