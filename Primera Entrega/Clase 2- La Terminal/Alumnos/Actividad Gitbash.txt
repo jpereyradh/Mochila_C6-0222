@@ -1,0 +1,59 @@
+﻿Aldana@LAPTOP-Aldana@LAPTOP-969PHUSA MINGW64 ~/OneDrive/Documentos/Aldana/Estudios/Certified Tech Developer/INT A LA INFORMATICA
+$ mkdir repaso_clase1y2
+
+
+Aldana@LAPTOP-969PHUSA MINGW64 ~/OneDrive/Documentos/Aldana/Estudios/Certified Tech Developer/INT A LA INFORMATICA
+$ cd repaso_clase1y2
+
+
+Aldana@LAPTOP-969PHUSA MINGW64 ~/OneDrive/Documentos/Aldana/Estudios/Certified Tech Developer/INT A LA INFORMATICA/repaso_clase1y2
+$ mkdir historia_de_la_contabilidad que_haremos_hoy servidores interfaces_de_usuario infraestructura
+
+
+Aldana@LAPTOP-969PHUSA MINGW64 ~/OneDrive/Documentos/Aldana/Estudios/Certified Tech Developer/INT A LA INFORMATICA/repaso_clase1y2
+$ ls
+historia_de_la_contabilidad/  interfaces_de_usuario/  servidores/
+infraestructura/              que_haremos_hoy/
+
+
+Aldana@LAPTOP-969PHUSA MINGW64 ~/OneDrive/Documentos/Aldana/Estudios/Certified Tech Developer/INT A LA INFORMATICA/repaso_clase1y2
+$ touch historia_de_la_contabilidad/repaso.txt interfaces_de_usuario/repaso.docx servidores/repaso.xls infraestructura/repaso.pdf que_haremos_hoy/repaso.jpg
+
+
+MINGW64 ~/OneDrive/Documentos/Aldana/Estudios/Certified Tech Developer/INT A LA INFORMATICA/repaso_clase1y2
+$ ls -R
+.:
+historia_de_la_contabilidad/  interfaces_de_usuario/  servidores/
+infraestructura/              que_haremos_hoy/
+
+
+./historia_de_la_contabilidad:
+repaso.txt
+
+
+./infraestructura:
+repaso.pdf
+
+
+./interfaces_de_usuario:
+repaso.docx
+
+
+./que_haremos_hoy:
+repaso.jpg
+
+
+./servidores:
+repaso.xls
+
+
+Aldana@LAPTOP-969PHUSA MINGW64 ~/OneDrive/Documentos/Aldana/Estudios/Certified Tech Developer/INT A LA INFORMATICA/repaso_clase1y2
+$ mv historia_de_la_contabilidad historia_de_la_informatica
+
+
+Aldana@LAPTOP-969PHUSA MINGW64 ~/OneDrive/Documentos/Aldana/Estudios/Certified Tech Developer/INT A LA INFORMATICA/repaso_clase1y2
+$ mv que_haremos_hoy software_y_hardware
+
+
+Aldana@LAPTOP-969PHUSA MINGW64 ~/OneDrive/Documentos/Aldana/Estudios/Certified Tech Developer/INT A LA INFORMATICA/repaso_clase1y2
+$ mv infraestructura gitbash_y_vscode
