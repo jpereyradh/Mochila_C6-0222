@@ -1,0 +1,5 @@
+Teniendo en cuenta que Matilda quiere jugar a un juego que requiere altos niveles de procesameinto, ella debería usar el Amd Ryzen 5 3600
+
+Marcelo por su parte, quiere ejecutar la suite de office 2019. Su conjunto de programas puede ser soportado y ejecutado por el intel i3 3230. 
+
+Por último para el hermano mayor que quiere editar videos con un programa que puede requerir recursos pero no tantos, el Amd a8 9600 ene ste caso sería el ideal

@@ -1,0 +1,1 @@
+Con estos comandos podemos visualizar de una manera no tan amigable que directorios tenemos y cuanto consumen en nuestra pc. También podemos ver el estado del servidor que este nos proporciona que tipo de usuario está usando la pc.

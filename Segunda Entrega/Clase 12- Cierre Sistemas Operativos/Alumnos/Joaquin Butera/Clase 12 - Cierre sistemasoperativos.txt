@@ -1,0 +1,2 @@
+Clase 12 – Cierre sistemas operativos
+Un usaurio root en Linux es aquel que tiene permisos o acceso administrativo al sistema. Root es un tipo de usuario específico por lo tanto un usario normal no susele tener acceso al sistema 

@@ -1,0 +1,19 @@
+1) Git init
+
+2) Git status: puedo ver el estado de los archivos
+
+2) Git config.name "Nombre_de_Usuario"
+
+3) git config.email "Email"
+
+4) Git add
+
+5) Git commmit
+
+6) Git push origin "Nombre de la rama a subir"
+
+7) Git pull
+
+8) git clone
+
+9) git remote -v
