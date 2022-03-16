@@ -1,0 +1,43 @@
+u35322@ws28900046 MINGW64 /d/curso ctd/Introduccion Informatica
+$  mkdir repaso_clase1y2
+
+u35322@ws28900046 MINGW64 /d/curso ctd/Introduccion Informatica
+$ cd repaso_clase1y2
+
+u35322@ws28900046 MINGW64 /d/curso ctd/Introduccion Informatica/repaso_clase1y2
+$ mkdir historia_de_la_contabilidad que_haremos_hoy servidores interfaces_de_usuario infraestructura
+
+u35322@ws28900046 MINGW64 /d/curso ctd/Introduccion Informatica/repaso_clase1y2
+$ ls
+historia_de_la_contabilidad/  infraestructura/  interfaces_de_usuario/  que_haremos_hoy/  servidores/
+
+u35322@ws28900046 MINGW64 /d/curso ctd/Introduccion Informatica/repaso_clase1y2
+$  touch historia_de_la_contabilidad/repaso.txt interfaces_de_usuario/repaso.docx servidores/repaso.xls infraestructura/repaso.pdf que_haremos_hoy/repaso.jpg
+
+u35322@ws28900046 MINGW64 /d/curso ctd/Introduccion Informatica/repaso_clase1y2
+$ ls -R
+.:
+historia_de_la_contabilidad/  infraestructura/  interfaces_de_usuario/  que_haremos_hoy/  servidores/
+
+./historia_de_la_contabilidad:
+repaso.txt
+
+./infraestructura:
+repaso.pdf
+
+./interfaces_de_usuario:
+repaso.docx
+
+./que_haremos_hoy:
+repaso.jpg
+
+repaso.xls
+
+u35322@ws28900046 MINGW64 /d/curso ctd/Introduccion Informatica/repaso_clase1y2
+$ mv historia_de_la_contabilidad historia_de_la_informatica
+
+u35322@ws28900046 MINGW64 /d/curso ctd/Introduccion Informatica/repaso_clase1y2
+$ mv que_haremos_hoy software_y_hardware
+
+u35322@ws28900046 MINGW64 /d/curso ctd/Introduccion Informatica/repaso_clase1y2
+$ mv infraestructura gitbash_y_vscode
