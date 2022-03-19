@@ -1,0 +1,3 @@
+a. Git fue diseñado por Linus Torvalds, porque necesitaban eficiencia, confiabilidad y compatibilidad en versiones.
+b. El propietario de Github es Microsoft, porque es el repositorios más grande.
+c. Si, se puede trabajar de distintos lados, por ejemplo desde la misma pagina.
