@@ -1,0 +1,20 @@
+Para crear el repositorio local
+$ git init 
+
+Configuracion de usuario cada vez que lo utilizas
+$ git config user.name "Usuario Github"
+$ git config user.email "Email Github"
+
+Configuracion de usuario solo una vez
+$ git config --global user.name "usuario github""
+$git config --global user.email "Email github"
+
+Para agregar archivos 
+$ git add
+
+Para crear cambios en el repositorio
+$ git commit
+
+Para enviar confirmaciones a la rama principal
+$ git push 
+
