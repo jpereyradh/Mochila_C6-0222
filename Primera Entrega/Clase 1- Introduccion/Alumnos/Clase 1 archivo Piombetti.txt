@@ -1,0 +1,3 @@
+a) El inventor del sistema de control de verisones Git fue Linus Torvalds. Lo creó para resolver la problematica de guardar múltiples archivos que contengan lo mismo y conseguir una forma más ordenada y eficaz de guardar y compartir archivos.
+b) Github actualmente pertenece a Microsoft, y lo hizo para formar parte del mundo de los desarrolladores, ya que Github es el mayor repositorio de código del mundo.
+c) Sí, desde una página de Github.
