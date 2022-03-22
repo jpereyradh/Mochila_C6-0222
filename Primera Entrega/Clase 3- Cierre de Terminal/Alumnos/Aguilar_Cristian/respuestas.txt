@@ -1,0 +1,30 @@
+9) Si el resultado coincide con la plantilla guía de la diapositiva anterior resolver las 
+siguientes preguntas 
+
+● ¿Se pueden crear las carpetas del punto 2 en un solo comando? En caso que la 
+respuesta sea positiva escribir el comando
+SI SE PUEDE .
+crist@DESKTOP-0A75KVB MINGW64 ~/DH/peliculas (main)
+$ mkdir Infantiles Accion Terror Comedia Romanticas
+
+
+● ¿Se pueden crear los archivos del punto 3 en un solo comando? En caso que la 
+respuesta sea positiva escribir el comando
+SI SE PUEDE
+crist@DESKTOP-0A75KVB MINGW64 ~/DH/peliculas/infantiles (main)
+$ touch Intenzamente.txt "El juego del miedo.xls" "Rapido y furioso.pdf" Titanic.jpg
+
+
+● Estando ubicados en la carpeta DH crear una carpeta llamada Prueba dentro de 
+la carpeta Romanticas en un solo comando y escribirlo aquí. 
+
+crist@DESKTOP-0A75KVB MINGW64 ~/DH (main)
+$ mkdir peliculas/romanticas/Prueba
+
+● Estando ubicados en la carpeta Romanticas crear una carpeta llamada Prueba2
+dentro de la carpeta Accion
+
+crist@DESKTOP-0A75KVB MINGW64 ~/DH/peliculas/romanticas (main)
+$ mkdir C:/Users/crist/DH/peliculas/accion/prueba2
+
+
