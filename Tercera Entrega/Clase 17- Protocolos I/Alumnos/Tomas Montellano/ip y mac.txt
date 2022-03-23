@@ -1,0 +1,14 @@
+Dirección ip publica:181.46.113.207
+Dirección ip privada:192.168.0.23
+mascara de subred:255.255.255.0
+Dirección MAC:10-7B-44-15-B6-A8
+
+¿La IP pública y privada de qué clase son?
+
+La pública es de grado A
+La privada es de grado C
+
+¿ Qué información puedo obtener de la dirección MAC? , vamos a acceder a 
+https://macvendors.com/ y verificar que marca de placa de red tenemos.
+
+ASUSTek COMPUTER INC.
