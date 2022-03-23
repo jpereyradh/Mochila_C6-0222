@@ -1,0 +1,8 @@
+direccion ip publica: 192.168.0.164
+direccion ip local: 192.168.0.1
+subred: 255.255.255.0
+MAC: 0C-54-15-F2-BA-D9
+
+La publica es de clase C, y la privada tambien es de clase C.
+
+mi placa de red es de marca Intel, modelo Wireless-AC 9260 160mhz
