@@ -1,5 +1,6 @@
 MAC: 60-18-95-1E-49-00
 IPv4: 192.168.0.162
+Ipv4 publica: 201.231.80.136
 Mascara de subred: 255.255.255.0
 
 Con la direccion MAC puedo identificar el fabricante de mi dispositivo
