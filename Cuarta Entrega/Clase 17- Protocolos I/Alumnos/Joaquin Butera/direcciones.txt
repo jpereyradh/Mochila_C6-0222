@@ -1,0 +1,11 @@
+Dirección ip privada: 192.168.0.118
+
+Dirección ip pública: 181.164.221.58
+
+Las direcciones dos ips son de clase C
+
+Máscara de subred: 255.255.255.0
+
+Dirección MAC: 98-48-27-E1-2E-7D
+
+La placa de red que tengo instalada en mi pc actualmente es: TP-LINK TECHNOLOGIES CO.,LTD.
