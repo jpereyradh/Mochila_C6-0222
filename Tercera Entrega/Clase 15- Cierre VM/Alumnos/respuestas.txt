@@ -1,0 +1,13 @@
+- ¿Por qué un lenguaje de programación sólo puede utilizarse en algunos
+sistemas operativos y en otros no?
+ Un lenguaje de programación es una aplicación que permite compilar un texto
+ en un código que puede ser ejecutado por el sistema operativo para el cual
+ es usado.
+
+- ¿Qué tipo de máquina virtual es virtualBox?
+ Es una máquina virtual de sistemas.
+
+- Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta
+ a las demás? ¿por qué?
+ No, porque están aisladas unas de otras. Es como si "tuviéramos tantas
+ computadoras" como máquinas virtuales instaladas.
