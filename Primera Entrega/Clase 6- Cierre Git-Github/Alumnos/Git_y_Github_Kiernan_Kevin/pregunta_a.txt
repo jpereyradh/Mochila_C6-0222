@@ -1,0 +1,5 @@
+Git fue creado por Linus Torvalds. En el año 2002 la comunidad de desarrollo de Linux utilizaba un DVCS propiedad de 
+BitKeeper. LLegado el año 2005 la relacion entre la comunidad que desarrollaba el kernel de linux y BitKeeper se vino a 
+bajo, y la herramienta dejo de ser ofrecida de manera gratuita. Esto impulsó a la comunidad de desarrollo de Linux (y en 
+particular a Linus Torvalds, el creador de Linux) a desarrollar su propia herramienta basada en algunas de las lecciones 
+que aprendieron mientras usaban BitKeeper.
