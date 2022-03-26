@@ -1,0 +1,19 @@
+Actividad integradora
+
+Dadas nuestras direcciones IP y las máscaras de red,
+*¿ La IP pública y privada de qué clase son ?
+
+Ambas dos son de Clase C
+
+*¿ Qué información puedo obtener de la dirección MAC? , vamos a acceder a
+https://macvendors.com/ y verificar que marca de placa de red tenemos.
+
+CHONGQING FUGUI ELECTRONICS CO.,LTD.
+
+*Compartimos la investigación
+
+En la IP pública notamos que nos brinda quien es nuestro servidor a internet, nuestra geolocalización, cada una tiene un IP pública distinta.
+
+En la IP privada nos encontramos con una clase C
+
+Las direcciones MAC son diferentes para cada uno de los dispositivos
