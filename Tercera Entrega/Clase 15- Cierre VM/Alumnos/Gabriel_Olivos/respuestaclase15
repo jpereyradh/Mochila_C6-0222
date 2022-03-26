@@ -1,0 +1,11 @@
+por que un lenguaje de programacion solo puede utilizarse en algunos sistemas operativos y en otros no
+en realidad se puede usar en cualquier sistema operativo con alguno de los metodos vistos en clases, compilando el codigo fuente en el mismo sistema operativo, utilizando una maquina virtual o con un interprete
+
+
+que tipo de maquina virutal es virtualbox
+es una maquina virtual de sistemas
+
+
+si tengo mas de una maquina virtual instalada y una se rompe, esto afecta a las demas_, por que_
+
+No, porque cada una es una entidad independiente
