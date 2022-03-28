@@ -1,0 +1,6 @@
+Ip publica 190.193.40.247
+
+ Dirección IPv4. . . . . . . . . . . . . . : 192.168.0.68
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+
+MAC  78-2B-46-BF-EA-C2 intel corporate
