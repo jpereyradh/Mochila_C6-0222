@@ -1,0 +1,103 @@
+**2 Chequeando Ip Pública
+
+*En Opera (o cualquier browser sin VPN) debemos consultar nuestra direccion IP
+publica y anotar.
+
+IP Pública = ##
+
+País	Argentina
+Ciudad	Buenos Aires
+Latitud	-34.602199554443
+Longitud	-58.384498596191
+ISP	Personal
+
+*En Opera con VPN activada debemos consular nuestra ip y consultar su
+geolocalización (podemos hacerlo desde la pagina cual es mi IP) y anotar.
+
+77.111.246.40
+
+País	United States
+Ciudad	
+Latitud	37.750999450684
+Longitud	-97.821998596191
+ISP	Opera Mini Proxy
+
+*Con Tor y su red activada, debemos consultar nuestra ip y consultar la
+localización de la misma.
+
+45.15.16.105
+
+País 	Anonymous Proxy
+Ciudad 	
+Latitud 	0
+Longitud 	0
+ISP 	Obehosting AB
+
+Preguntas Realizar en mesa
+*¿Las ip públicas son las mismas? ¿por qué?
+
+No, cada una tiene una IP y geolocalización distinta, por que el VPN y TOR nos permiten ocultar nuestra dirección de IP y geolocalización, brindando mayor privacidad a la hora de navegar.
+
+*Sin utilizar la VPN puedes ver el siguiente video? Ahora activala e intenta verlo,
+¿que es lo que sucedió?¿Por qué?
+
+-Sin VPN no nos deja ingregar, dice Video no disponible
+Quien subió este video no permitió que estuviera disponible en tu país.
+
+-Con Opera VPN reproduce el video
+
+-Con TOR nos envía un mensaje:
+Our systems have detected unusual traffic from your computer network. Please try your request again later. Why did this happen?
+
+IP address: 23.154.177.6
+Time: 2022-03-30T23:32:09Z
+URL: https://www.youtube.com/watch?v=6_kh4RsBjbI
+
+*Utilizando Tor ¿pudimos localizar la IP ?
+
+No, en el país hacen referencia que es un Proxy anonimo y no marca ni latitud ni longitud.
+
+**3 Prueba de velocidades
+
+*En Opera sin VPN debemos consultar nuestra velocidad de subida, bajada y el
+ping, anotar estos valores.
+
+-PING: 16ms
+-DESCARGA: 295.45Mbps
+-SUBIDA: 31.47Mbps
+-Conexiones: Multi
+-Servidor: Telecentro. Buenos Aires
+-Personal: IP Pública
+
+*En Opera con VPN activada debemos consular nuestra velocidad de subida,
+bajada y el ping, anotando estos valores.
+
+-PING: 218ms
+-DESCARGA: 1.02Mbps
+-SUBIDA: 7.89Mbps
+-Conexiones: Multi
+-Servidor: Cox-Wichita. Wichita,KS
+-Opera Mini: 77.111.246.40
+
+*Con Tor y su red activada, debemos consultar nuestra velocidad de subida,
+bajada y el ping, anotando estos valores.
+
+-PING: 400ms
+-DESCARGA: 10.24Mbps
+-SUBIDA: 9.99Mbps
+-Conexiones: Multi
+-Servidor: Onoze Broadband. Accra
+-IP: 192.42.116.17
+
+*¿Las velocidades en los test son diferentes? ¿Por qué crees que sucede esto?
+¿Que significa el valor del ping?
+
+-Las velocidades son diferentes, sin VPN es mayor a las demás.
+
+-En el caso de las VPN, la velocidad está relacionada con el servido al cual nos conectamos, mientras que TOR es menor su velocidad por que dependemos de los nodos a los cuales nos conectamos para enviar el paquete de datos.
+
+-El PING es el tiempo que tardan en comunicarse la conexión local con un equipo remoto en la red IP, se mide en milisegundos 
+
+*El valor del ping, ¿varia entre las diferentes opciones? ¿Por qué?
+
+-Si, ya que los tiempos de respuesta, entre la pc y el servidor, son distintos.
