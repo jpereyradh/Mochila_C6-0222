@@ -1,0 +1,11 @@
+?¿Por qué un lenguaje de programación sólo puede utilizarse en algunos
+sistemas operativos y en otros no?.
+
+porque cada sistema puede reconocer distintos lenguajes y compilar/interpretar distintos lenguajes
+?¿Qué tipo de máquina virtual es virtualBox?.
+es una maquina virtual de sistema
+
+?Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las
+demás? ¿Por qué?
+No, porque cada imagen genera una caja virtual definida que es independiente de las otras, en caso de que una se rompa podemos usar la otra imagen o reemplazar la rota para continuar trabajando
+
