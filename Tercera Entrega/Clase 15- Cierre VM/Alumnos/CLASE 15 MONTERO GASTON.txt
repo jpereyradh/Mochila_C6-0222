@@ -1,0 +1,33 @@
+.simplify {
+    background-color: #F3603B;
+    height: 12vh;
+    display: flex;
+    justify-content: space-between;    
+}
+
+.simplify h6{
+    font-size: 2.5rem;
+    color: white;
+}
+.simplify a{
+    background-color: white;
+    padding: 10px 25px;
+    border-radius: 30px;
+    color: #F3603B;
+    text-decoration: none;
+    font-size: 0.8rem;
+}
+
+.redes {
+    background-color: #1E1E26;
+}
+
+footer .simplify{
+    display: flex;
+    justify-content: space-between;
+}
+
+.listado {
+    display: flex;
+    align-items: center;
+}
