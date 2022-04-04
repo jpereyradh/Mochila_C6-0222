@@ -1,0 +1,22 @@
+Cheatsheet de los comandos mas usados
+
+Clonar un repositorio existente
+$ git clone ssh://usuario@domain.com/repo.git
+
+Crear un nuevo repositorio local
+$ git init
+
+Muestra el estado de los archivos en su repositorio
+$ git status
+
+Remueve el directorio y los archivos que contiene
+$ git rm -r directorio
+
+Muestra el historial
+$ git log
+
+Actualizar los archivos
+$ git pull origin branch
+
+Subir los archivos al repositorio remoto
+$ git push origin branch
