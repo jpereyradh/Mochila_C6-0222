@@ -1,0 +1,57 @@
+﻿Nuestras ip según VPN y TOR
+
+
+
+
+Franco:
+
+
+Ip pública
+
+
+* Opera con VPN:  77.111.246.40
+* Safari (normal):  190.18.140.21 
+* Tor Browser: 185.220.101.73
+
+
+Joaquin:
+
+
+        Ip pública
+
+
+* Opera con VPN: 77.111.246.40
+* Chrome: 181.164.221.58
+* Tor Browser: 95.214.54.97
+
+
+Valentina:
+
+
+            Ip pública
+
+
+* Opera con VPN: 77.111.246.40
+* Chrome: 182.190.659.69
+* Tor Browser: 180.216.65.42
+
+
+
+
+Preguntas:        
+
+
+1. ¿Las ip públicas son las mismas? ¿por qué?
+El navegador regular de cada uno y el Tor Browser  utilizan ip públicas distintas, en cambio, Opera con su VPN utiliza la misma ip pública para todos. 
+2. Sin utilizar la VPN puedes ver el siguiente video? Ahora activala e intenta verlo, ¿que es lo que sucedió?¿Por qué?
+Sin utilizar la VPN no se puede ver el video, porque no está disponible para nuestra región. Pero con el VPN activado y con la ubicación en Europa (por ejemplo) sí se puede ver, porque el video está disponible para esa región, en este caso Europa.
+3. Utilizando Tor ¿pudimos localizar la IP ?
+No, ya que con Tor tenemos un anonimato a la hora de enviar y recibir información. Cada vez que nos conectamos a Tor
+
+
+Las velocidades en los test son diferentes? ¿Por qué crees que sucede esto?
+Bueno, cada uno tiene una red distinta con su banda ancha determinada, la condición del servicio y más. También se puede decir que en base a que ruta tomó, si la más ligera pero menos segura, o la más larga pero más segura y lenta.
+¿Que significa el valor del ping?
+Es el tiempo que tarda en realizar la comunicación tu conexión local con un equipo remoto en la red IP.
+El valor del ping, ¿varia entre las diferentes opciones? ¿Por qué?
+Es algo similar a la primera respuesta, varía según el usuario que genera el request y el servidor que genera un response
