@@ -1,0 +1,4 @@
+a-Linus Torvalds en 2005 para ser utilizado en el desarrollo del kernel de Linux
+b- Microdoft para brindar una nube exclusivamente a desarrolladores
+c-Git CMD, Git GUI, Git Lab, Git Butcket
+
