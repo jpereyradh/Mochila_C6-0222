@@ -1,0 +1,7 @@
+
+Dir IP Publica: 181.231.203.106   (fuente: https://www.whatismyip.com/es/)
+Dir IP Privada: 192.168.0.143 (fuente: comando ipconfig /all)
+Dir Fisica (MAC): E0-D4-64-CF-71-5A
+
+IP publica y privada con de clase IP4.
+Placa de red: Intel.
