@@ -1,0 +1,31 @@
+Clase 21- Cierre Protocolos
+
+•	Catalina Aleknavicius- camada 6
+
+
+
+
+Resolucion/respuestas
+
+1.	Zoom: Puerto 443 y 22.
+2.	Discord: Puerto 443, 21 y 22.
+3.	Google Meet: Puerto 443 y 53.
+4.	WhatsApp Web: Puerto 443.
+5.	MySQL: Puerto 53 y 23.
+6.	Git: Puerto 23.
+7.	Secure Sockets Layers (SSL): Puerto 443.
+8.	HTTP: Puerto 80 y 8080.
+9.	VirtualBox: Puerto 23.
+10.	VPN: Puerto 22.
+11.	Microsoft Outlook: Puerto 143, 25, 587, 110 y 995.
+12.	File Transfer Protocol (FTP): Puerto 21 y 22.
+13.	Microsoft Word:  Puerto 443 y 53.
+14.	Skype: Puerto 443 y 22.
+15.	Epic Games: Puerto 53, 67 y 68.
+16.	Fifa 21: Puerto 22, 67 y 68.
+17.	Spotify: Puerto 67 y 68, y 22.
+18.	Team Viewer: Puerto 22, 21 y 23.
+19.	Netflix: Puerto 22, 67 y 68.
+20.	Edmodo: Puerto 443, 53, 67 y 68.
+21.	Adobe Creative Cloud: Puerto 53, 21 y 22.
+22.	Facebook: Puerto 443, 53, 67 y 68.
