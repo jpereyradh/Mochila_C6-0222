@@ -1,0 +1,21 @@
+9) Respuestas:
+
+a) Sí, se puede.
+
+Georgina@Georgina-PC MINGW64 ~/Desktop/DH/Peliculas
+$ mkdir Infantiles Accion Terror Comedia Romanticas
+
+
+b) Sí se pueden crear los archivos en un solo comando:
+
+Georgina@Georgina-PC MINGW64 ~/Desktop/DH/Peliculas/Infantiles
+$ mkdir Intenzamente.txt "El juego del miedo.xls" "Rapido y furioso.pdf" Titanic.jpg
+
+c) Carpeta Prueba:
+Georgina@Georgina-PC MINGW64 ~/Desktop/DH
+$ mkdir Peliculas/Romanticas/Prueba
+
+
+d) Carpeta Prueba2:
+Georgina@Georgina-PC MINGW64 ~/Desktop/DH/Peliculas/Romanticas
+$ mkdir ../Accion/Prueba2
