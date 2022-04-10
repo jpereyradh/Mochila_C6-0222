@@ -1,0 +1,30 @@
+https://revistabyte.es/ciberseguridad/ryuk-ministerio-de-trabajo/ 
+
+*¿Qué tipo de amenaza es?
+
+El ransomware Ryuk
+? ¿Cómo comienza y cómo se propaga esta amenaza?
+su primera acción la realiza a través de un ataque 
+de phishing basado en Emotec, un troyano que cambia 
+su código cada poco tiempo a fin de no ser detectado 
+por las soluciones de seguridad y que tiene la capacidad 
+de interceptar, registrar, y guardar todo el tráfico de red.
+
+? ¿Hay más de una amenaza aplicada?
+Una vez que Emotec ha realizado su trabajo, empieza el turno de Trickbot,
+ que se encarga de los ataques laterales, entre otros, el robo de 
+las credenciales de inicio de sesión. Una vez que ambos malware 
+han acabado con su labor, Ryuk es el encargado de encriptar todos 
+los datos. La gravedad de éste radica en su capacidad de infección 
+y es que, no sólo encripta los equipos sino también la práctica 
+totalidad de los recursos de la red. 
+
+? ¿Qué solución o medida recomendarían?
+ “faltan medios y procedimientos ágiles para poder responder a estos 
+cibertataques, porque para los Gobiernos, hasta ahora, la prioridad no 
+era la ciberseguridad ya que su pensamiento era que nunca les iban a atacar.  Es ahora, con el aumento de los ciberataques, cuando se han dado cuenta de que se están corriendo riesgos. En mi opinión, se debería aumentar el presupuesto en ciberseguridad porque no es un problema de voluntad de los CISOs sino de presupuesto y del tiempo de reacción contra las amenazas. Detectamos que, en muchas ocasiones, se creen que con defensas estáticas pueden defenderse y hay que adapatarse a un entorno cada vez más cambiante y que tiene nuevas técnicas de ataque cada menos tiempo”. 
+
+Aumentar presupuesto en ciberseguridad e implementar herramientas y 
+medios ágiles.
+
+Emotec es troyano
