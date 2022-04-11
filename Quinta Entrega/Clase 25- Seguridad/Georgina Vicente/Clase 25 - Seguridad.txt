@@ -1,0 +1,47 @@
+EQUIPO 1
+
+Empresa emergente dedicada a la venta de productos fertilizantes para campos
+con una capacidad financiera acotada.
+
+seguridad lógica (paso 1): le diria a los encargados de sistemas que 
+establescan un antivirus en todas las pc de la empresa y en sus notebook 
+laborales.
+
+seguridad física (paso 2): establecer un sistema redundante donde se 
+guarden los datos mas importantes en un backup que puede ser una 
+solucion de bajo costo.
+
+seguridad pasiva (paso 3):  Crear particiones en el disco duro para almacenar archivos y backups (copias de seguridad) 
+en una unidad distinta a donde tenemos nuestro sistema operativo.
+
+seguridad activa (paso 4): Uso de software de seguridad informática, como antivirus, antiespías y cortafuegos.
+
+controles de medida de seguridad (paso 5): activamos una medida preventiva para que nuestros empleados no divulguen sus contraseñas a nadie
+ 
+
+Controles de vulnerabilidades (paso 6): como la falibilidad humana tiende a notarse 
+en cuanto a la creación de contraseñas seguras, se deberá asesorar a los empleados
+para que puedan crearlas con varios caracteres, entre ellos mayúsculas, minúsculas,
+números y caracteres especiales.
+
+
+EQUIPO 2
+
+Planteamos para seguridad física:
+
+UPS por cortes de luz
+Respaldo de datos para hacer backups
+Sistemas redundantes, copia de sistemas
+
+Planteamos para seguridad lógica:
+
+VPN Segura para trabajadores remotos
+Proxy para bloquear a nivel PC sitios inseguros
+Reforzar antivirus y firewalls
+Control de acceso
+Cifrado de datos en la intranet
+Cambio de claves periódicos
+
+
+
+https://docs.google.com/document/d/1-mwEdColG4M-C5xmPP0zCoL_at3v-E_QOmyJV-MRreg/edit
