@@ -1,0 +1,17 @@
+las ip publicas no son las mismas
+
+tor y vpn ocultan nuestra ubicacion real
+
+
+con tor no se puede geolocalizar la ubicacion 
+
+el video sin vpn activa , no se puede ver
+
+las velocidades son diferentes porque la vpn hace que sea mas lenta por que consume recursos .
+tambien es lento en tor por encriptar y desencriptar mensajes de nodo a nodo 
+
+el ping nos dice si tenemos conexion y la velocidad de la misma 
+
+
+
+
