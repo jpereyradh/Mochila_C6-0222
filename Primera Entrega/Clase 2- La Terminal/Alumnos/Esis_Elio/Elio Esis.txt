@@ -1,0 +1,156 @@
+
+usuario@DESKTOP-MFBTH9L MINGW64 ~
+$ mkdir DH
+
+usuario@DESKTOP-MFBTH9L MINGW64 ~
+$ cd DH
+
+usuario@DESKTOP-MFBTH9L MINGW64 ~/DH
+$ mkdir repaso_clase1y2
+
+usuario@DESKTOP-MFBTH9L MINGW64 ~/DH
+$ cd repaso_clase1y2
+
+usuario@DESKTOP-MFBTH9L MINGW64 ~/DH/repaso_clase1y2
+$ mkdir historia_de_la_contabilidad que_haremos_hoy servidores interfaces_de_usuario infraestructura
+
+usuario@DESKTOP-MFBTH9L MINGW64 ~/DH/repaso_clase1y2
+$ ls
+historia_de_la_contabilidad/  interfaces_de_usuario/  servidores/
+infraestructura/              que_haremos_hoy/
+
+usuario@DESKTOP-MFBTH9L MINGW64 ~/DH/repaso_clase1y2
+$ cd historia_de_la_contabilidad
+
+usuario@DESKTOP-MFBTH9L MINGW64 ~/DH/repaso_clase1y2/historia_de_la_contabilidad
+$ touch repaso.txt repaso.jpg repaso.pdf repaso.xlsx repaso.docx
+
+usuario@DESKTOP-MFBTH9L MINGW64 ~/DH/repaso_clase1y2/historia_de_la_contabilidad
+$ ls
+repaso.docx  repaso.jpg  repaso.pdf  repaso.txt  repaso.xlsx
+
+usuario@DESKTOP-MFBTH9L MINGW64 ~/DH/repaso_clase1y2/historia_de_la_contabilidad
+$ mv repaso.jpg ../interfaces_de_usuario
+
+usuario@DESKTOP-MFBTH9L MINGW64 ~/DH/repaso_clase1y2/historia_de_la_contabilidad
+$ mv repaso.pdf ../servidores
+
+usuario@DESKTOP-MFBTH9L MINGW64 ~/DH/repaso_clase1y2/historia_de_la_contabilidad
+$ mv repaso.xlsx ../infraestructura
+
+usuario@DESKTOP-MFBTH9L MINGW64 ~/DH/repaso_clase1y2/historia_de_la_contabilidad
+$ mv repaso.txt ../que_haremos_hoy
+
+usuario@DESKTOP-MFBTH9L MINGW64 ~/DH/repaso_clase1y2/historia_de_la_contabilidad
+$ cd
+
+usuario@DESKTOP-MFBTH9L MINGW64 ~
+$ cd DH
+
+usuario@DESKTOP-MFBTH9L MINGW64 ~/DH
+$ Ls -R
+.:
+repaso_clase1y2
+
+./repaso_clase1y2:
+historia_de_la_contabilidad  infraestructura  interfaces_de_usuario  que_haremos_hoy  servidores
+
+./repaso_clase1y2/historia_de_la_contabilidad:
+repaso.docx
+
+./repaso_clase1y2/infraestructura:
+repaso.xlsx
+
+./repaso_clase1y2/interfaces_de_usuario:
+repaso.jpg
+
+./repaso_clase1y2/que_haremos_hoy:
+repaso.txt
+
+./repaso_clase1y2/servidores:
+repaso.pdf
+
+***VISUAL CODE***
+
+usuario@DESKTOP-MFBTH9L MINGW64 ~
+$ cd dh
+
+usuario@DESKTOP-MFBTH9L MINGW64 ~/dh
+$ ls
+repaso_clase1y2/
+
+usuario@DESKTOP-MFBTH9L MINGW64 ~/dh
+$ cd repaso_clase1y2
+
+usuario@DESKTOP-MFBTH9L MINGW64 ~/dh/repaso_clase1y2
+$ ls
+historia_de_la_contabilidad/  interfaces_de_usuario/  servidores/
+infraestructura/              que_haremos_hoy/
+
+usuario@DESKTOP-MFBTH9L MINGW64 ~/dh/repaso_clase1y2
+$ mv historia_de_la_contabilidad historia_de_la_informatica
+
+usuario@DESKTOP-MFBTH9L MINGW64 ~/dh/repaso_clase1y2
+$ mv que_haremos_hoy software_y_hardware
+
+usuario@DESKTOP-MFBTH9L MINGW64 ~/dh/repaso_clase1y2
+$ mv infraestructura git_bash_y_vscode
+
+usuario@DESKTOP-MFBTH9L MINGW64 ~/dh/repaso_clase1y2
+$ ls
+git_bash_y_vscode/           interfaces_de_usuario/  software_y_hardware/
+historia_de_la_informatica/  servidores/
+
+usuario@DESKTOP-MFBTH9L MINGW64 ~/dh/repaso_clase1y2
+$ cd historia_de_la_informatica
+
+usuario@DESKTOP-MFBTH9L MINGW64 ~/dh/repaso_clase1y2/historia_de_la_informatica      
+$ ls
+repaso.docx
+
+usuario@DESKTOP-MFBTH9L MINGW64 ~/dh/repaso_clase1y2/historia_de_la_informatica      
+$ nano repaso.docx
+
+usuario@DESKTOP-MFBTH9L MINGW64 ~/dh/repaso_clase1y2/historia_de_la_informatica      
+$ cd ../
+
+usuario@DESKTOP-MFBTH9L MINGW64 ~/dh/repaso_clase1y2
+$ cd interfaces_de_usuario
+
+usuario@DESKTOP-MFBTH9L MINGW64 ~/dh/repaso_clase1y2/interfaces_de_usuario
+$ ls
+repaso.jpg
+
+usuario@DESKTOP-MFBTH9L MINGW64 ~/dh/repaso_clase1y2/interfaces_de_usuario
+$ nano repaso.jpg
+
+usuario@DESKTOP-MFBTH9L MINGW64 ~/dh/repaso_clase1y2/interfaces_de_usuario
+$ cd ../software_y_hardware
+
+usuario@DESKTOP-MFBTH9L MINGW64 ~/dh/repaso_clase1y2/software_y_hardware
+$ ls
+repaso.txt
+
+usuario@DESKTOP-MFBTH9L MINGW64 ~/dh/repaso_clase1y2/software_y_hardware
+$ nano repaso.txt
+
+usuario@DESKTOP-MFBTH9L MINGW64 ~/dh/repaso_clase1y2/software_y_hardware
+$ cd ../servidores
+
+usuario@DESKTOP-MFBTH9L MINGW64 ~/dh/repaso_clase1y2/servidores
+$ ls
+repaso.pdf
+
+usuario@DESKTOP-MFBTH9L MINGW64 ~/dh/repaso_clase1y2/servidores
+$ nano repaso.pdf
+
+usuario@DESKTOP-MFBTH9L MINGW64 ~/dh/repaso_clase1y2/servidores
+$ cd ../git_bash_y_vscode
+
+usuario@DESKTOP-MFBTH9L MINGW64 ~/dh/repaso_clase1y2/git_bash_y_vscode
+$ ls
+repaso.xlsx
+
+usuario@DESKTOP-MFBTH9L MINGW64 ~/dh/repaso_clase1y2/git_bash_y_vscode
+$ nano repaso.xlsx
+

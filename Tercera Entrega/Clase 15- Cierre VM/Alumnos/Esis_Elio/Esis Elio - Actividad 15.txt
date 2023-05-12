@@ -1,0 +1,8 @@
+¿Por que un lenguaje de programacion solo puede utilizarse en algunos sistemas operativos y no en otros?
+- Solo puede usarse en otros sistemas operativos cuando haya un interprete o compilador (segun corresponda al lenguaje en cuestion), esto es debido a que un lenguaje de programacion compila al lenguaje ensamblador, el cual es ejecutado por el sistema operativo, este lenguaje depende de la arquitectura del procesador y la interpretacion del sistema operativo. Si en la computadora cambia la arquitectura del procesador no va a correr por ser diferente.
+
+¿Que tipo de maquina es VirtualBox?
+- Es una maquina virtual de codigo abierto de tipo sistema, ya que permite ejecutar multiples sistemas operativos en un solo dispositivo.
+
+¿Si tengo mas de una maquina virtual instalada, y una se rompe, ¿esto afecta a las demas? ¿Porque?
+- No afecta a las demas, ocurre lo mismo si una se infecta con un virus, ya que estamos en un entorno seguro como si fuera una sandbox, todo lo que hacemos alli no sale de alli.
